@@ -1,0 +1,2 @@
+🌳 Binary Search Tree (BST) – Insert Method Example in Python
+This Python code shows a simple implementation of a Binary Search Tree (BST) that supports inserting values while maintaining BST properties.

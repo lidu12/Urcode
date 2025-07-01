@@ -1,0 +1,1 @@
+This HashTable class constructor initializes an empty hash table with a fixed size (default 7). It creates an internal list called data_map, filled with None, to act as the storage slots for key-value pairs. Each slot can later hold a list of items to handle collisions.

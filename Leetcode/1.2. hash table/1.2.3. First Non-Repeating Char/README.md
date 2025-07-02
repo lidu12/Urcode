@@ -1,0 +1,2 @@
+ First Non-Repeating Character
+ We count how many times each character appears in the string using a dictionary. Then we look for the first character that appears only once. If none exists, we return None.

@@ -1,0 +1,1 @@
+We store all items from list1 in a dictionary. Then we check if any item from list2 is already there. If we find any match, we return True. Otherwise, we return False. Using a dictionary gives us fast lookups, making this O(n) time.

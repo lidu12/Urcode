@@ -1,4 +1,4 @@
-# MinHeap README
+# MinHeap
 
 **MinHeap**: Always keeps the **smallest** value at the root.
 

@@ -1,6 +1,6 @@
  💻 Urcode
 
-**Urcode** is a personal repository documenting the journey of learning **Data Structures and Algorithms (DSA)** using C# in **Visual Studio**.
+**Urcode** is a personal repository documenting the journey of learning **Data Structures and Algorithms (DSA)** using Python in **Visual Studio**.
 
 This repo includes organized code samples, problem solutions, and custom DSA implementations—all aimed at building a strong foundation in problem-solving and algorithmic thinking.
 

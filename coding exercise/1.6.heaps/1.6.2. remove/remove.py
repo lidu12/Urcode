@@ -54,12 +54,7 @@ class MaxHeap:
             else:
                 return
                        
-    # WRITE THE REMOVE METHOD HERE #
-    #                              #
-    #                              #
-    #                              #
-    #                              #
-    ################################
+    
     
     
     

@@ -42,24 +42,6 @@ class BinarySearchTree:
                 return True
         return False
     
-   
-    # YOU CAN ALSO WRITE BFS WITH A QUEUE INSTEAD OF LIST
-    # (TECHNICALLY THIS IS A BETTER SOLUTION)
-    #
-    # def BFS(self):
-    #     current_node = self.root
-    #     queue = Queue()
-    #     results = []
-    #     queue.put(current_node)
-
-    #     while not queue.empty():
-    #         current_node = queue.get()
-    #         results.append(current_node.value)
-    #         if current_node.left is not None:
-    #             queue.put(current_node.left)
-    #         if current_node.right is not None:
-    #             queue.put(current_node.right)
-    #     return results
                 
     
     def BFS(self):
